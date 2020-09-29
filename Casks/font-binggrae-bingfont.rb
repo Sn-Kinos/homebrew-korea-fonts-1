@@ -1,4 +1,4 @@
-cask 'font-binggra-bingfont' do
+cask 'font-binggrae-bingfont' do
     version :latest
     sha256 :no_check
     url "http://kiss.i234.me:60606/fsdownload/OnfTjAmHd/Binggrae.zip"
